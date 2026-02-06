@@ -19,8 +19,7 @@
 - 📱 Learning **Flutter & mobile development**
 - 🌐 Learning **web development (HTML, CSS, JS, backend soon)**
 - 🔐 Interested in **authentication systems & backend**
-- 🎥 I post English reels on Instagram → **@anglo_flow19**
-- 💡 Goal: Become a **full-stack developer + freelancer**
+- 🎥 I post English reels on Instagram  
 
 ---
 
@@ -40,6 +39,8 @@
 ### 👩‍💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -61,20 +62,14 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- Build 5 real apps  
-- Build portfolio website  
-- Start freelancing  
-- Grow tech Instagram  
-- Master Flutter  
-- Learn backend (Node or Supabase)
-
----
-
 ## 📱 Connect With Me
 
-- Instagram: **@anglo_flow19**
+<p align="left">
+<a href="https://instagram.com/anglo_flow19" target="_blank">
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="25"/> anglo_flow19
+</a>
+</p>
+
 - GitHub: **Omayma-lang**
 
 ---
@@ -88,10 +83,9 @@ class Omayma {
     "Flutter",
     "Web Development",
     "Backend",
-    "Authentication",
-    "Freelancing"
+    "Authentication"
   ];
 
-  String goal = "Become a full-stack developer & work online 🌍";
+  String mindset = "Building skills daily and growing step by step 🚀";
 }
 
