@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%">
 
 # Hi 👋 I'm Omayma Khelfaoui
-### 💻 Student | Flutter Developer | Future Full-Stack Engineer
+### 💻 Student | Flutter Developer | Full-Stack Engineer
 
 🚀 Building modern web & mobile applications
 🎥 Content creator (Educational tech & programming reels)
