@@ -5,21 +5,19 @@
 # Hi 👋 I'm Omayma Khelfaoui
 ### 💻 Student | Flutter Developer | Future Full-Stack Engineer
 
-🚀 Learning web & app development  
-🎥 Content creator (English reels)  
-🌍 Building skills to freelance globally  
-
+🚀 Building modern web & mobile applications
+🎥 Content creator (Educational tech & programming reels)
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer science student  
-- 📱 Learning **Flutter & mobile development**
-- 🌐 Learning **web development (HTML, CSS, JS, backend soon)**
-- 🔐 Interested in **authentication systems & backend**
-- 🎥 I post English reels on Instagram  
+- 🎓 Computer science student & passionate developer
+- 🚀 **Mobile & Web Developer** specializing in **Flutter**
+- 🌐 Building modern web experiences and robust applications
+- 🤖 Deeply interested in everything concerning tech and AI
+- 🎥 Content creator sharing educational tech insights on Instagram
 
 ---
 
@@ -28,9 +26,8 @@
 - Flutter apps  
 - Web development  
 - Firebase / Supabase  
-- UI/UX basics  
-- Building real projects  
-- Improving English for tech & freelancing  
+- UI/UX 
+- Building real projects   
 
 ---
 
@@ -57,16 +54,15 @@
 - Firebase  
 - Supabase  
 - APIs  
-- Authentication systems  
-- Backend basics  
+- Authentication systems   
 
 ---
 
 ## 📱 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/anglo_flow19" target="_blank">
-<img src="https://img.icons8.com/color/48/instagram-new.png" width="25"/> anglo_flow19
+<a href="https://www.instagram.com/tech_dev19" target="_blank">
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="25"/> tech_dev19
 </a>
 </p>
 
